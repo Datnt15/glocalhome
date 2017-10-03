@@ -1,0 +1,65 @@
+[26-Aug-2017 08:55:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function segment() on a non-object in /home/nhae94f3/public_html/glocalhome/application/core/MY_Controller.php on line 87
+[26-Aug-2017 12:14:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/nhae94f3/public_html/glocalhome/application/controllers/Home.php on line 18
+[28-Aug-2017 12:14:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Access level to Login::$ci_nonce must be protected (as in class Front_base) or weaker in /home/nhae94f3/public_html/glocalhome/application/controllers/Login.php on line 0
+[28-Aug-2017 12:14:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Access level to Login::$ci_nonce must be protected (as in class Front_base) or weaker in /home/nhae94f3/public_html/glocalhome/application/controllers/Login.php on line 0
+[28-Aug-2017 12:14:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Access level to Login::$ci_nonce must be protected (as in class Front_base) or weaker in /home/nhae94f3/public_html/glocalhome/application/controllers/Login.php on line 0
+[03-Sep-2017 17:11:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:12:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:12:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 18
+[03-Sep-2017 17:15:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:15:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:15:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:15:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:15:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:16:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:17:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:18:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[03-Sep-2017 17:20:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Register.php on line 19
+[05-Sep-2017 09:01:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function language() in /home/nhae94f3/public_html/glocalhome/application/views/book/footer.php on line 18
+[05-Sep-2017 09:01:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function language() in /home/nhae94f3/public_html/glocalhome/application/views/book/footer.php on line 18
+[05-Sep-2017 09:02:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function language() in /home/nhae94f3/public_html/glocalhome/application/views/book/footer.php on line 18
+[05-Sep-2017 11:15:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Book::calc_exchange() in /home/nhae94f3/public_html/glocalhome/application/controllers/Book.php on line 18
+[05-Sep-2017 11:16:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function get_precifix_room() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Book.php on line 18
+[23-Sep-2017 08:47:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''accessToken'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 118
+[23-Sep-2017 08:47:40 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''accessToken'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 118
+[23-Sep-2017 08:47:43 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''accessToken'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 118
+[23-Sep-2017 10:11:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 133
+[23-Sep-2017 10:33:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare Admin::update_user_data() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 169
+[23-Sep-2017 10:46:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 10:48:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 10:50:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 10:54:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 10:55:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 10:59:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:00:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:01:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:01:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:04:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:05:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:10:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:10:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::reArrayFiles() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 175
+[23-Sep-2017 11:12:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::cleanString() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 186
+[23-Sep-2017 11:21:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::cleanString() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 187
+[23-Sep-2017 11:39:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::cleanString() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 187
+[23-Sep-2017 11:41:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::cleanString() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 187
+[23-Sep-2017 11:44:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Admin::cleanString() in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 194
+[23-Sep-2017 11:47:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function add_room_meta_data() on a non-object in /home/nhae94f3/public_html/glocalhome/application/controllers/Admin.php on line 233
+[27-Sep-2017 14:45:56 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/nhae94f3/public_html/glocalhome/application/controllers/Book.php on line 37
